@@ -2,4 +2,7 @@
 
 # Tecnology
 
- Java, Cucumber, Junit, Maven 
+ Java, Cucumber, Junit, Maven.
+ 
+# Build
+ mvn clean install
